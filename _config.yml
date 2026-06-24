@@ -1,3 +1,21 @@
-title: Maria Vallarelli
-description: Data Scientist | Generative AI | LLMOps | Renewable Energy AI
-theme: jekyll-theme-minimal
+title: "Maria Vallarelli"
+name: "Maria Vallarelli"
+description: "Data Scientist | Generative AI | LLMOps | Renewable Energy AI"
+
+url: "https://mariavallarelli.github.io"
+baseurl: ""
+
+repository: "mariavallarelli/mariavallarelli.github.io"
+
+author:
+  avatar: "profile.png"
+  name: "Maria Vallarelli"
+  bio: "Data Scientist at Eni Plenitude specializing in end-to-end AI solutions, from multimodal data pipelines to LLM-based agents."
+  location: "Milan, Italy"
+  employer: "Eni Plenitude"
+  github: "mariavallarelli"
+  linkedin: "maria-vallarelli"
+  medium: "@marivallarelli"
+
+theme: null
+remote_theme: "academicpages/academicpages.github.io"
