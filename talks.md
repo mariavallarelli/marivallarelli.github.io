@@ -22,20 +22,13 @@ This talk presents an evidence-grounded Retrieval-Augmented Generation (RAG) arc
 
 **Resources**
 
-- 🌐 **Official Talk Page**  
-  https://2026.pycon.it/en/event/answerability-first-rag-for-mixed-text-and-tables
-
-- 👤 **Speaker Profile**  
-  https://2026.pycon.it/en/profile/dynkmb
-
-- 📦 **Offline Talk Page**  
-  /offline-pages/answerability-first-rag-pycon.html
-
-- 📦 **Offline Speaker Profile**  
-  /offline-pages/pycon-speaker-profile.html
-
-- 💻 **GitHub Repository**  
-  https://github.com/mariavallarelli/answerability-first-rag
+| Resource | Link |
+|----------|------|
+| 🌐 Official Talk | [View](https://2026.pycon.it/en/event/answerability-first-rag-for-mixed-text-and-tables) |
+| 👤 Speaker Profile | [View](https://2026.pycon.it/en/profile/dynkmb) |
+| 📦 Offline Talk | [Open](/offline-pages/answerability-first-rag-pycon.html) |
+| 📦 Offline Speaker | [Open](/offline-pages/pycon-speaker-profile.html) |
+| 💻 GitHub | [Repository](https://github.com/mariavallarelli/answerability-first-rag) |
 
 ---
 
