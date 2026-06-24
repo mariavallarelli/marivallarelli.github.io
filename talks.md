@@ -29,10 +29,10 @@ This talk presents an evidence-grounded Retrieval-Augmented Generation (RAG) arc
   https://2026.pycon.it/en/profile/dynkmb
 
 - 📦 **Offline Talk Page**  
-  /offline/answerability-first-rag-pycon.html
+  /offline-pages/answerability-first-rag-pycon.html
 
 - 📦 **Offline Speaker Profile**  
-  /offline/pycon-speaker-profile.html
+  /offline-pages/pycon-speaker-profile.html
 
 - 💻 **GitHub Repository**  
   https://github.com/mariavallarelli/answerability-first-rag
