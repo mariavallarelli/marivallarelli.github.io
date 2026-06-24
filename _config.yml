@@ -15,7 +15,15 @@ author:
   employer: "Eni Plenitude"
   github: "mariavallarelli"
   linkedin: "maria-vallarelli"
-  medium: "@marivallarelli"
 
-theme: null
-remote_theme: "academicpages/academicpages.github.io"
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mariavallarelli"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/maria-vallarelli/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@marivallarelli"
